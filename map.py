@@ -1,6 +1,5 @@
 """
-Produces a map showing London Underground station locations with high
-resolution background imagery provided by OpenStreetMap.
+Produces a map showing your Plume sensor readings
 
 """
 import argparse
